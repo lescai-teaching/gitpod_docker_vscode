@@ -1,6 +1,6 @@
 # VScode Server - Bioinformatics course
 
-This is a no-content repository, with the sole purpose of facilitating the launch of an VScode Server provisioned through a Docker image and run using [Gitpod](https://www.gitpod.io/docs/introduction).
+This is a no-content repository, with the sole purpose of facilitating the launch of an RStudio Server provisioned through a Docker image and run using [Gitpod](https://www.gitpod.io/docs/introduction).
 
 In order to run this, please make sure:
 
@@ -10,4 +10,4 @@ In order to run this, please make sure:
 Now you're all set and can use the following button to launch the service:
 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/lescai-teaching/gitpod_docker_vscode)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lescai-teaching/gitpod_docker_vscode)
